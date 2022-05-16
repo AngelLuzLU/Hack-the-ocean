@@ -34,6 +34,13 @@ Realizamos el Modelado UI con la Herramienta Figma.
 ## Estructura de páginas webVista completa
 
    ![completa.png](./img/completa.png)
+   
+## Página termianda
+
+   ![pag1.png](./img/pag1.png)  
+   ![pag2.png](./img/pag2.png) 
+   ![pag3.png](./img/pag3.png) 
+   ![pag4.png](./img/pag4.png) 
 
 ## Integrantes del equipo
 
