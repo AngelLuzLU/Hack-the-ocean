@@ -28,12 +28,12 @@ Realizamos el Modelado UX con la Herramienta Miro
 
 Realizamos el Modelado UI con la Herramienta Figma.
 
-![1652653257031.png](image/ReadmeHackaton/1652653257031.png)
+![ui.png](./img/ui.png)
 
 ## Estructura de páginas webVista completa
 
-   ![1652654514352.png](image/ReadmeHackaton/1652654514352.png)
+   ![completa.png](./img/completa.png)
 
-    Miembros del equipo
+## Miembros del equipo
 
-    ![1652656406768.png](image/ReadmeHackaton/1652656406768.png)
+    ![integrantes.png](./img/integrantes.png)
