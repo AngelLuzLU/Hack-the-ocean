@@ -41,7 +41,11 @@ Realizamos el Modelado UI con la Herramienta Figma.
    ![pag2.png](./img/pag2.png) 
    ![pag3.png](./img/pag3.png) 
    ![pag4.png](./img/pag4.png) 
-
+   
+## Mapa de información
+La principal característica del frontend de nuestra aplicación es un mapa para divulgar la información al respecto de la contaminación que ocasionan las operaciones de las refresqueras en los difenretes estados de la república, para esto se utilizó un mapa por estados de México y se añadieron funciones para que se muestre la información del Estado sobre el cual se coloque el cursor, de manera dinámica
+   ![mapa.png](./img/mapa.png) 
+   
 ## Funcionamiento Frontend - Backend
 Mediante el uso de spring con JPA y hibernate se construyen un par de consultas para agregar a quienes firman la petición a una base de datos, así como para mostrar dentro de la página un progreso hacia un objetivo de firmas mediante una barra de progreso. En este caso se configuró la conexión considerando que la aplicación de vue corre en el puerto 3000 del localhost, spring en el 8080 y la base de datos de mySQL en el 3306
 
