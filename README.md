@@ -42,6 +42,15 @@ Realizamos el Modelado UI con la Herramienta Figma.
    ![pag3.png](./img/pag3.png) 
    ![pag4.png](./img/pag4.png) 
 
+## Funcionamiento Frontend - Backend
+Mediante el uso de spring con JPA y hibernate se construyen un par de consultas para agregar a quienes firman la petición a una base de datos, así como para mostrar dentro de la página un progreso hacia un objetivo de firmas mediante una barra de progreso. En este caso se configuró la conexión considerando que la aplicación de vue corre en el puerto 3000 del localhost, spring en el 8080 y la base de datos de mySQL en el 3306
+
+#### Corriendo en local
+   Spring
+   ![spring.png](./img/spring.png)
+   mySQL
+   ![sql.png](./img/sql.png)
+   
 ## Integrantes del equipo
 
    ![integrantes.png](./img/integrantes.png)
