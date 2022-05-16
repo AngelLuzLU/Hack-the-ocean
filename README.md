@@ -1,10 +1,10 @@
 # HacktheOcean_Axojolonautas
 
 ## Link al repositorio de backend
-   [respositorio backend](https://github.com/AngelLuzLU/BackEndHackTheOcean)
+   [Respositorio Backend](https://github.com/AngelLuzLU/BackEndHackTheOcean)
    
-## Link al vidoe de Tiktok
-   [video de tiktok](https://www.tiktok.com/@el_ivanovich.jpg/video/7098143835477314822?is_from_webapp=1&sender_device=pc&web_id=7098141360776316421)
+## Link al video de Tiktok
+   [Video de tiktok](https://www.tiktok.com/@el_ivanovich.jpg/video/7098143835477314822?is_from_webapp=1&sender_device=pc&web_id=7098141360776316421)
 
 # Introducción
 
