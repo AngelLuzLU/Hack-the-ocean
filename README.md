@@ -1,6 +1,11 @@
 # HacktheOcean_Axojolonautas
+
 ## Link al repositorio de backend
-   [respositorio bakcend](https://github.com/AngelLuzLU/BackEndHackTheOcean)
+   [respositorio backend](https://github.com/AngelLuzLU/BackEndHackTheOcean)
+   
+## Link al vidoe de Tiktok
+   [video de tiktok](https://www.tiktok.com/@el_ivanovich.jpg/video/7098143835477314822?is_from_webapp=1&sender_device=pc&web_id=7098141360776316421)
+
 # Introducción
 
 Los refrescos forman parte esencial de la vida cotidiana de un mexicano, llegando al pensamiento que primero es  la adicción antes que la necesidad.
@@ -54,6 +59,7 @@ Mediante el uso de spring con JPA y hibernate se construyen un par de consultas 
    ![spring.png](./img/spring.png)
    mySQL
    ![sql.png](./img/sql.png)
+
    
 ## Integrantes del equipo
 
