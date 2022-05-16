@@ -22,7 +22,7 @@ VEU, Java con spring, boot, jpa, html, css
 
 Realizamos el Modelado UX con la Herramienta Miro
 
-![1652653632703.png](image/ReadmeHackaton/1652653632703.png)
+![ux.png](./img/ux.png)
 
 # Modelado UI en Figma
 
