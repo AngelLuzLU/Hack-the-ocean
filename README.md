@@ -4,7 +4,7 @@
    [Respositorio Backend](https://github.com/AngelLuzLU/BackEndHackTheOcean)
    
 ## Link al video de Tiktok
-   [Video de tiktok](https://www.tiktok.com/@el_ivanovich.jpg/video/7098143835477314822?is_from_webapp=1&sender_device=pc&web_id=7098141360776316421)
+   [Video de tiktok](https://www.tiktok.com/@el_ivanovich.jpg/video/7098160554031729926?is_from_webapp=1&sender_device=pc&web_id=7098141360776316421)
 
 # Introducción
 
