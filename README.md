@@ -34,6 +34,6 @@ Realizamos el Modelado UI con la Herramienta Figma.
 
    ![completa.png](./img/completa.png)
 
-## Miembros del equipo
+## Integrantes del equipo
 
-    ![integrantes.png](./img/integrantes.png)
+   ![integrantes.png](./img/integrantes.png)
